@@ -13,7 +13,7 @@ Microservice developed using ASP.NET Core .NET 6 and Entity Framework Core (In M
 - Unit Testing using xUnit and Moq
 
 ## Layers responsibilities
-- Core: contains Services, Entities and Repositories' interfaces. Entity classes use private sets on their properties for immutability reinforcement.
+- Core: contains Services, Entities and Repositories interfaces. Entity classes use private sets on their properties for immutability reinforcement.
 - Infrastructure: contains the Repositories implementations and DbContext class
 - Application: contains the Application services (responsible for use cases), and View Models and Input Models.
 - API: contains the Controllers, and dependency injection, Swagger, In-Memory DbContext
