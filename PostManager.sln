@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.API", "PostManager\PostManager.API.csproj", "{FF7D897D-EA44-432E-91EA-8CD8FE8249D9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.Application", "PostManager.Application\PostManager.Application.csproj", "{DA8BC578-FBD3-45FB-9FC0-5BA093ADD33A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.Core", "PostManager.Core\PostManager.Core.csproj", "{7448E1E1-3033-4989-815C-D448659E3650}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.Infrastructure", "PostManager.Infrastructure\PostManager.Infrastructure.csproj", "{5FA5B626-CC4B-4DF8-A1A6-BAF7AFC2108D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManager.UnitTests", "PostManager.UnitTests\PostManager.UnitTests.csproj", "{B8EAD20E-2824-4237-8507-0C708865C279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.UnitTests", "PostManager.UnitTests\PostManager.UnitTests.csproj", "{B8EAD20E-2824-4237-8507-0C708865C279}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManager.API", "PostManager.API\PostManager.API.csproj", "{38D65C94-3C40-4C3E-B050-58D70026F46E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF7D897D-EA44-432E-91EA-8CD8FE8249D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF7D897D-EA44-432E-91EA-8CD8FE8249D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF7D897D-EA44-432E-91EA-8CD8FE8249D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF7D897D-EA44-432E-91EA-8CD8FE8249D9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA8BC578-FBD3-45FB-9FC0-5BA093ADD33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA8BC578-FBD3-45FB-9FC0-5BA093ADD33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA8BC578-FBD3-45FB-9FC0-5BA093ADD33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{B8EAD20E-2824-4237-8507-0C708865C279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EAD20E-2824-4237-8507-0C708865C279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EAD20E-2824-4237-8507-0C708865C279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D65C94-3C40-4C3E-B050-58D70026F46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D65C94-3C40-4C3E-B050-58D70026F46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D65C94-3C40-4C3E-B050-58D70026F46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D65C94-3C40-4C3E-B050-58D70026F46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
