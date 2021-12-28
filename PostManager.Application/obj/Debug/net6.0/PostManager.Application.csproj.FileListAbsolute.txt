@@ -1,0 +1,15 @@
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\PostManager.Application.deps.json
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\PostManager.Application.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\ref\PostManager.Application.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\PostManager.Application.pdb
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\PostManager.Core.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\bin\Debug\net6.0\PostManager.Core.pdb
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.csproj.AssemblyReference.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.AssemblyInfoInputs.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.AssemblyInfo.cs
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.csproj.CoreCompileInputs.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.csproj.CopyComplete
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\ref\PostManager.Application.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Application\obj\Debug\net6.0\PostManager.Application.pdb

@@ -1,0 +1,15 @@
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\PostManager.Infrastructure.deps.json
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\PostManager.Infrastructure.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\ref\PostManager.Infrastructure.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\PostManager.Infrastructure.pdb
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\PostManager.Core.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\bin\Debug\net6.0\PostManager.Core.pdb
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.AssemblyInfo.cs
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.csproj.CopyComplete
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\ref\PostManager.Infrastructure.dll
+C:\Temp\ProjetoDev\PostManager\PostManager.Infrastructure\obj\Debug\net6.0\PostManager.Infrastructure.pdb

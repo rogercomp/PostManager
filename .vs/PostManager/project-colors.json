@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff7d897d-ea44-432e-91ea-8cd8fe8249d9": {
+      "ProjectGuid": "ff7d897d-ea44-432e-91ea-8cd8fe8249d9",
+      "DisplayName": "PostManager.API",
+      "ColorIndex": 0
+    },
+    "da8bc578-fbd3-45fb-9fc0-5ba093add33a": {
+      "ProjectGuid": "da8bc578-fbd3-45fb-9fc0-5ba093add33a",
+      "DisplayName": "PostManager.Application",
+      "ColorIndex": 1
+    },
+    "7448e1e1-3033-4989-815c-d448659e3650": {
+      "ProjectGuid": "7448e1e1-3033-4989-815c-d448659e3650",
+      "DisplayName": "PostManager.Core",
+      "ColorIndex": 2
+    },
+    "5fa5b626-cc4b-4df8-a1a6-baf7afc2108d": {
+      "ProjectGuid": "5fa5b626-cc4b-4df8-a1a6-baf7afc2108d",
+      "DisplayName": "PostManager.Infrastructure",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

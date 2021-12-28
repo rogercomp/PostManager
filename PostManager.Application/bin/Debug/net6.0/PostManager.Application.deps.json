@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PostManager.Application/1.0.0": {
+        "dependencies": {
+          "PostManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "PostManager.Application.dll": {}
+        }
+      },
+      "PostManager.Core/1.0.0": {
+        "runtime": {
+          "PostManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
