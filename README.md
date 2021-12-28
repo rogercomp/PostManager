@@ -1,6 +1,6 @@
 # PostManager
 
-Microservice developed using ASP.NET Core 6 and Entity Framework Core (In Memory)
+Microservice developed using ASP.NET Core .NET 6 and Entity Framework Core (In Memory)
 
 ## Features
 - Save Post data
