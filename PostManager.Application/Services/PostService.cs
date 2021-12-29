@@ -19,16 +19,11 @@ namespace PostManager.Application.Services
             _postRepository = postRepository;   
         }
 
-        public async Task<List<PostViewModel>> GetAll()
+        public async Task<IEnumerable<PostViewModel>> GetAll()
         {
-            var posts = await _postRepository.GetAll();
-            List<PostViewModel> lista = new List<PostViewModel>();
-            foreach (var item in posts)
-            {
-               var post = new PostViewModel(item.Id, item.Description, item.NameUser);
-                lista.Add(post);
-            }
-            return lista;
+            var lista = await _postRepository.GetAll();
+           
+            return from t in lista select new PostViewModel(t.Id, t.Description, t.NameUser);
         }
 
         public async Task<PostViewModel> Get(int id)

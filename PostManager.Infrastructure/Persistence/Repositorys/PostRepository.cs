@@ -43,7 +43,7 @@ namespace PostManager.Infrastructure.Persistence.Repositorys
         }
 
       
-        public async Task<List<Post>> GetAll()
+        public async Task<IEnumerable<Post>> GetAll()
         {
             return await _dbContext.Posts.ToListAsync();
         }

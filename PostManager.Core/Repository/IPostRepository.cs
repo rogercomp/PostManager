@@ -9,7 +9,7 @@ namespace PostManager.Core.Repository
 {
     public interface IPostRepository
     {
-        Task<List<Post>> GetAll();
+        Task<IEnumerable<Post>> GetAll();
         Task<Post> Get(int id);
         Task Add(Post post);
         Task Delete(int id);

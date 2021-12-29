@@ -12,7 +12,7 @@ namespace PostManager.Application.Services
     { 
         Task<PostViewModel> Get(int id);
 
-        Task<List<PostViewModel>> GetAll();
+        Task<IEnumerable<PostViewModel>> GetAll();
 
         Task<PostViewModel> Save(PostInputModel postInputModel);
 
